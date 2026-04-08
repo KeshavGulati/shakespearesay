@@ -11,20 +11,20 @@ On bash, do the following:
 ### Clone and cd into the repository
 
 ```bash
- git clone https://github.com/KeshavGulati/shakespearesay.git
- cd shakespearesay
+git clone https://github.com/KeshavGulati/shakespearesay.git
+cd shakespearesay
 ```
 
 ### Set up the virtual environment
 
 ```bash
- python3 -m venv venv
- source ./venv/bin/activate
- pip install --upgrade pip
- pip install -r requirements.txt
+python3 -m venv venv
+source ./venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ### Run the file
 ```bash
- python3 shakespeare.py
+python3 shakespeare.py
 ```
