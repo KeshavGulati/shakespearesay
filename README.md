@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 ### Run the file
 ```bash
-python3 shakespeare.py
+python3 shakespearesay.py
 ```
