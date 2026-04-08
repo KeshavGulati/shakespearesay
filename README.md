@@ -8,7 +8,7 @@ popular linux package called *cowsay.*
 ## How To Run
 On bash, do the following:
 
-### Clone and cd Into The Repository
+### Clone and cd into the repository
 
 ```bash
  git clone https://github.com/KeshavGulati/shakespearesay.git
